@@ -1,5 +1,4 @@
 # 2ultrasubzero.github.io
-<!DOCTYPE html>
 <html>
   <body>
     <h1>Ay test</h1>

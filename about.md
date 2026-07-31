@@ -1,8 +1,4 @@
-layout: page
-title: "About YSR Corner"
-permalink: /about
 
-<!DOCTYPE html>
 <html>
   <body>
     <h1>About the site</h1>

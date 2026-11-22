@@ -1,4 +1,4 @@
-# 2ultrasubzero.github.io
+# ysrcorner.github.io
 <html>
   <body>
     <h1>YSR's corner</h1>

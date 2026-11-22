@@ -2,9 +2,9 @@
 <html>
   <body>
     <h1>About the site</h1>
-    <p>I set up this site to house my ideas, designs, solutions, creative ventures, etc as they relate to my hobbies, interests, and work. I figure that they're best preserved and available for consumption somewhere, and that way somehow helpful or of interest to someone.</p>
-    <h2>So what's covered?</h2>
-    <p>My hobbies and interest span quite a lot of different things, and I've yet to meet someone who also has such a varied assortment of things they're into. Some areas: motorsports, track driving, sim racing, cars in general, fitness, sports, computers, video games, exercise, reverse-engineering, writing, building, jerry rigging things, financial modeling, photography, traveling, music, sales, consulting, and exploring/learning/trying anything new.    
+    <p>I set up this site to document and track some of my hobbies, projects, and interests. Mainly cars & motorsports, both real and simulated.</p>
+    <h2>What to expect</h2>
+    <p>Progress and documentation of building a track / weekend car. Sim racing laps, races, tips, etc. Perhaps other hobbies / interests will be included in the future but for now it's focused around cars.
     </p>
     <h3>More to come.</h3>
   </body>
